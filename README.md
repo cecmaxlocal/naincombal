@@ -1,7 +1,7 @@
 Of course. Based on your input, here is a complete `README.md` file for the `./naincombal` project. It incorporates all
 the keywords and directory structures you provided into a professional and clear format.
 
-<img src="./image/logon.jpeg">
+<img src="./matrix/cec/image/logon.jpeg">
 
 ---
 
